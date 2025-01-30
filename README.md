@@ -1,4 +1,4 @@
-[# Fast Logging for C++ with spdlog]([url](https://slynj.github.io/tech-docs/C%2B%2B/spdlog%20-%20Fast%20Logging%20for%20C%2B%2B%20188011ff45b980fbaf27d4fbf13f449d/))
+# Fast Logging for C++ with spdlog ([documentation](https://slynj.github.io/tech-docs/C%2B%2B/spdlog%20-%20Fast%20Logging%20for%20C%2B%2B%20188011ff45b980fbaf27d4fbf13f449d/))
 
 ## 1. Installation
 
